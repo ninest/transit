@@ -1,0 +1,12 @@
+{
+  "name": "t-three",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/papaparse": "^5.3.7",
+    "bun-types": "^0.5.0"
+  },
+  "dependencies": {
+    "papaparse": "^5.4.1"
+  }
+}
